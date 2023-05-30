@@ -1,9 +1,11 @@
 body{
     background-color:#851b1b;
+
     margin-top: 0px;
     margin-right: 0px;
     margin-left: 0px;
     padding: 10;
+   
 
 }
 #Div------------------------------------------------------
@@ -119,3 +121,5 @@ nav ul li a:hover::before {
 }
 
 
+
+#Homes------------------------------------------------------
